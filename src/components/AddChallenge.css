@@ -1,0 +1,32 @@
+.add-challenge-card {
+  border-radius: 15px;
+  border: none;
+}
+
+.add-challenge-card .card-header {
+  border-radius: 15px 15px 0 0;
+}
+
+.add-challenge-card .form-control {
+  border-radius: 10px;
+  border: 1px solid #ced4da;
+  transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.add-challenge-card .form-control:focus {
+  border-color: #86b7fe;
+  box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.25);
+}
+
+.add-challenge-card .btn-primary {
+  background-color: #0d6efd;
+  border: none;
+  border-radius: 10px;
+  padding: 10px 20px;
+  font-size: 1.1rem;
+  transition: background-color 0.3s ease;
+}
+
+.add-challenge-card .btn-primary:hover {
+  background-color: #0b5ed7;
+}
