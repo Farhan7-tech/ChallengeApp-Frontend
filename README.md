@@ -1,17 +1,4 @@
-<div align="center">
-
-# 🏆 ChallengeApp · Frontend
-
-**Set one challenge for every month of the year and track them in one place.**
-
-[![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
-[![Vite](https://img.shields.io/badge/Vite-6-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-5-7952B3?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![Axios](https://img.shields.io/badge/HTTP-Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)](https://axios-http.com/)
-
-</div>
-
----
+<a href="https://github.com/Farhan7-tech/ChallengeApp-Frontend"><img src=".github/assets/banner.svg" width="100%" alt="ChallengeApp: one challenge, every month."></a>
 
 ## About
 
@@ -73,8 +60,6 @@ src/
     └── challenge.jsx           # A single challenge item
 ```
 
----
+<br>
 
-<div align="center">
-Built by <a href="https://github.com/Farhan7-tech">Mohd Farhan</a>
-</div>
+<a href="https://github.com/Farhan7-tech"><img src=".github/assets/footer.svg" width="100%" alt="Built by Mohd Farhan. More projects on GitHub."></a>
